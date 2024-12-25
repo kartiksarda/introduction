@@ -1,0 +1,22 @@
+* {
+    text-align: center;
+}
+* {
+    background-color:rgb(0, 0, 0);
+}
+h1 {
+    color: cornsilk;
+    font-style: italic;
+}
+h2 {
+    color: azure;
+}
+h3 {
+    color: antiquewhite;
+}
+h4{
+    color: aliceblue;
+}
+#clg {
+    color: aqua;
+}
